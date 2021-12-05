@@ -1,9 +1,9 @@
 ![banner](https://sankarsans.github.io/sankar.github.io/images/profile-picture.png)
 
-[LinkedIn](https://www.linkedin.com/in/sankar-s-892060130/)
-[Twitter](https://twitter.com/sssankarsam)
-[GitHub](https://github.com/sankarsans)
-[Stackoverflow](https://stackoverflow.com/users/12023432/sankar)
+[LinkedIn](https://www.linkedin.com/in/sankar-s-892060130/) | 
+  [Twitter](https://twitter.com/sssankarsam) | 
+  [GitHub](https://github.com/sankarsans) | 
+  [Stackoverflow](https://stackoverflow.com/users/12023432/sankar)
 
 ## Hi there, I'm  [Sankar S](https://sankarsans.github.io/sankar.github.io/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://sankarsans.github.io/sankar.github.io/)
 
