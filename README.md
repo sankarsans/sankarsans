@@ -21,6 +21,14 @@
 - Web Designer at [Spider Web India](https://spiderwebindia.in) - mplemented page designs in standards-compliant dynamic HTML and CSS, Developed the Front End User Interface using HTML, JavaScript, jQuery
 
 
+### Projects 👯
+
+Implemented some of the projects based on Angular
+
+https://sankar-covid-tracker.netlify.app/dashboard
+https://sankar-shopping-demo.netlify.app/
+https://sankar-weather-info.netlify.app/home
+
 ### Collaboration 👯
 
 I am looking forward to contribute to projects on Full-stack development, software applications.
