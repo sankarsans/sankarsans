@@ -25,9 +25,9 @@
 
 Implemented some of the projects based on Angular
 
-https://sankar-covid-tracker.netlify.app/dashboard
-https://sankar-shopping-demo.netlify.app/
-https://sankar-weather-info.netlify.app/home
+https://sankar-covid-tracker.netlify.app/dashboard<br>
+https://sankar-shopping-demo.netlify.app/<br>
+https://sankar-weather-info.netlify.app/home<br>
 
 ### Collaboration 👯
 
