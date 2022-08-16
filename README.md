@@ -46,11 +46,11 @@ I am looking forward to contribute to projects on Full-stack development, softwa
 <a href="https://www.linkedin.com/in/sankar-s-892060130/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://www.linkedin.com/in/sankar-s-892060130/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="https://sankarsans.github.io/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/internetexplorer.svg"  />
 </a>
-<a href="[https://twitter.com/sssankarsam](https://sankarsans.github.io/)">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/internetexplorer.svg" />
+<a href="https://twitter.com/sssankarsam">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 <a href="mailto:sssankarsam@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
