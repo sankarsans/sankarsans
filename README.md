@@ -10,11 +10,11 @@
 
 ### About Me 🚀
 
-🎓 I'm Having 5+ years of experience working in a corporate environment as a Front-end and UI developer. Strong technical skills in complex web app development including web-based applications.
+🎓 I'm Having 5+ years of experience working in a corporate environment as a Front-end and UI developer. Strong technical skills in complex web app development including web-based applications.<br>
 Experience in system analysis, design, workflow architecture, development, testing, and maintenance of web-based applications.
 <br>
 have good experience in leveraging JavaScript to build Responsive Websites, Hybrid Mobile Apps, Web Apps, and interactive features.
-Experience in the Mortgage, FinTech, and Automation applications domain.
+Experience in the Mortgage, FinTech, and Automation applications domain.<br>
 👨‍💻 When I'm free I collaborate on open-source projects play esports and I love playing games.
 
 
