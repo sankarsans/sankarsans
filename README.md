@@ -6,14 +6,19 @@
   [GitHub](https://github.com/sankarsans) | 
   [Stackoverflow](https://stackoverflow.com/users/12023432/sankar)
 
-## Hi there, I'm  [Sankar S](https://sankarsans.github.io/sankar.github.io/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://sankarsans.github.io/)
+## Hi there, I'm  [Sankar S](https://sankarsans.github.io/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://sankarsans.github.io/)
 
 ### About Me 🚀
 
-🎓 Senior Software Engineer with a demonstrated history of working in the software engineering industry with end-to-end experience in developing, testing, and maintaining complex enterprise software applications. <br>
+🎓 I'm Having 5+ years of experience working in a corporate environment as a Front-end and UI developer. Strong technical skills in complex web app development including web-based applications.
+Experience in system analysis, design, workflow architecture, development, testing, and maintenance of web-based applications.
+<br>
+have good experience in leveraging JavaScript to build Responsive Websites, Hybrid Mobile Apps, Web Apps, and interactive features.
+Experience in the Mortgage, FinTech, and Automation applications domain.
 👨‍💻 When I'm free I collaborate on open-source projects play esports and I love playing games.
 
-### Experience / Volunteering 🔥
+
+### Where I’ve Worked  🔥
 
 - Senior Software Engineer at ([Encora Inc](https://www.encora.com/)) - Working with core engineering team. Angular, Spring Boot, Type Script, DevOps.
 - UI Developer at ([Testsigma Inc](https://testsigma.com/)) - Developed and maintained applications using TypeScript, MVC, Angular 2+, Docker, Tomcat, Apache Web Server, HTTP Server, HTML5, SASS/SCSS by following the agile-sprint methodology.
@@ -23,11 +28,13 @@
 
 ### Projects 👯
 
-Implemented some of the projects based on Angular
+Some Things I’ve Built
 
-https://sankar-covid-tracker.netlify.app/dashboard<br>
+https://sankar-covid-tracker.netlify.app/<br>
 https://sankar-shopping-demo.netlify.app/<br>
-https://sankar-weather-info.netlify.app/home<br>
+https://sankar-weather-info.netlify.app/<br>
+https://sankar-web-streaming.netlify.app/<br>
+https://sankar-data-display.netlify.app/home<br>
 
 ### Collaboration 👯
 
@@ -38,8 +45,11 @@ I am looking forward to contribute to projects on Full-stack development, softwa
 <a href="https://www.linkedin.com/in/sankar-s-892060130/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/sssankarsam">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/sankar-s-892060130/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="[https://twitter.com/sssankarsam](https://sankarsans.github.io/)">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/internetexplorer.svg" />
 </a>
 <a href="mailto:sssankarsam@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
