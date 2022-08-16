@@ -1,4 +1,4 @@
-![banner](https://sankarsans.github.io/sankar.github.io/images/profile-picture.png)
+![banner](https://sankarsans.github.io/assets/profile-picture.png)
 
 [LinkedIn](https://www.linkedin.com/in/sankar-ui-developer/) | 
   [Website](https://sankarsans.github.io/) | 
