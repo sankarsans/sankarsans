@@ -5,6 +5,8 @@
   [Twitter](https://twitter.com/sssankarsam) | 
   [GitHub](https://github.com/sankarsans) | 
   [Stackoverflow](https://stackoverflow.com/users/12023432/sankar)
+  
+ ![Profile views](https://gpvc.arturio.dev/[sankarsans])
 
 ## Hi there, I'm  [Sankar S](https://sankarsans.github.io/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> | [Portfolio](https://sankarsans.github.io/)
 
