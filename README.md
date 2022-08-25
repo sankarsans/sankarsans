@@ -23,11 +23,18 @@ Experience in the Mortgage, FinTech, and Automation applications domain.<br>
 
 ### Where I’ve Worked  🔥
 
-- Senior Software Engineer at ([Encora Inc](https://www.encora.com/)) - Working with core engineering team. Work with a variety of different languages, platforms, frameworks such as JavaScript, TypeScript, Angular, Azure, and Netlify.
-- UI Developer at ([Testsigma Inc](https://testsigma.com/)) - Developed and maintained applications using TypeScript, MVC, Angular 2+, Docker, Tomcat, Apache Web Server, HTTP Server, HTML5, SASS/SCSS by following the agile-sprint methodology.
-- Front End Developer at [GoProtoz Design Studio](https://www.goprotoz.com) Developed the Front End User Interface using HTML, JavaScript, jQuery, and SASS/SCSS.
+- Senior Software Engineer at ([Encora Inc](https://www.encora.com/)) 
+  - Working with core engineering team. Work with a variety of different languages, platforms, frameworks such as JavaScript, TypeScript, Angular, Azure, and Netlify.
+
+- UI Developer at ([Testsigma Inc](https://testsigma.com/))
+  - Developed and maintained applications using TypeScript, MVC, Angular 2+, Docker, Tomcat, Apache Web Server, HTTP Server, HTML5, SASS/SCSS by following the agile-sprint methodology.
+
+- Front End Developer at [GoProtoz Design Studio](https://www.goprotoz.com) 
+  - Developed the Front End User Interface using HTML, JavaScript, jQuery, and SASS/SCSS.
 Enhancement implementation in client application as per requirement using Angular 7, JavaScript /TypeScript, HTML5, SASS, Bootstrap.
-- Web Designer at [Spider Web India](https://spiderwebindia.in) - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery.
+
+- Web Designer at [Spider Web India](https://spiderwebindia.in) 
+  - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery.
 
 
 ### Projects 👯
